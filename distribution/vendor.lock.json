@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "version": "3.2.2",
+  "archive": {
+    "cache_name": "xdelta3-3.2.2-windows-x86_64.zip",
+    "url": "https://github.com/jmacd/xdelta/releases/download/v3.2.2/xdelta3-3.2.2-windows-x86_64.zip",
+    "sha256": "d48f7651d86b78fdca397057b46601f89131f37219675df736db70af44ec3379"
+  },
+  "exe_member": "xdelta3-3.2.2-windows-x86_64/xdelta3.exe",
+  "exe_sha256": "732980d52f9220dc81817ccdd0c295eadce8a0048a24c2a771a73f791ac824e9",
+  "notices": [
+    {
+      "cache_name": "XDELTA-LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/jmacd/xdelta/v3.2.2/xdelta3/LICENSE",
+      "sha256": "6cf63d87586c7c25c3ab8e62eef5c75bbaa982b0a6f9c00c59e2720255aac9ec",
+      "output_name": "XDELTA-LICENSE.txt"
+    },
+    {
+      "cache_name": "XDELTA-README.md",
+      "url": "https://raw.githubusercontent.com/jmacd/xdelta/v3.2.2/README.md",
+      "sha256": "ac5b344c884a8e77764d239ff0c7ab68cbfbb0b4763f6dbf79556ecc83322d6c",
+      "output_name": "XDELTA-README.md"
+    },
+    {
+      "cache_name": "XDELTA-NEWS.txt",
+      "url": "https://raw.githubusercontent.com/jmacd/xdelta/v3.2.2/xdelta3/NEWS",
+      "sha256": "98fbb5e1baec90420675cea078058c01ea31d910641799c81afd45a36b82b20f",
+      "output_name": "XDELTA-NEWS.txt"
+    },
+    {
+      "cache_name": "XZ-COPYING.txt",
+      "url": "https://raw.githubusercontent.com/tukaani-project/xz/v5.8.3/COPYING",
+      "sha256": "616a3ad264ce29b8f1cb97e53037b139d406899ca8d1f799651e17bfa09830b8",
+      "output_name": "XZ-COPYING.txt"
+    },
+    {
+      "cache_name": "XZ-0BSD.txt",
+      "url": "https://raw.githubusercontent.com/tukaani-project/xz/v5.8.3/COPYING.0BSD",
+      "sha256": "0b01625d853911cd0e2e088dcfb743261034a091bb379246cb25a14cc4c74bf1",
+      "output_name": "XZ-0BSD.txt"
+    },
+    {
+      "cache_name": "BLAKE3-APACHE.txt",
+      "url": "https://raw.githubusercontent.com/BLAKE3-team/BLAKE3/1.8.5/LICENSE_A2",
+      "sha256": "00fcc7a934ddbc9ece2a7cc063ac788e284b703b1d705ccbba72d462aa97921e",
+      "output_name": "BLAKE3-APACHE.txt"
+    },
+    {
+      "cache_name": "BLAKE3-CC0.txt",
+      "url": "https://raw.githubusercontent.com/BLAKE3-team/BLAKE3/1.8.5/LICENSE_CC0",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "output_name": "BLAKE3-CC0.txt"
+    }
+  ]
+}

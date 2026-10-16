@@ -1,0 +1,59 @@
+name: Error o mejora de traducción
+description: Informa de un texto, una pantalla o una incidencia de instalación.
+title: "[Traducción]: "
+labels:
+  - traducción
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Usa esta plantilla para describir un problema reproducible. No adjuntes
+        archivos del juego, partidas guardadas ni datos personales.
+  - type: input
+    id: version
+    attributes:
+      label: Versión del parche
+      description: Por ejemplo, 0.1.0-beta.
+      placeholder: 0.1.0-beta
+    validations:
+      required: true
+  - type: input
+    id: game_version
+    attributes:
+      label: Versión del juego y plataforma
+      description: Incluye Steam/GOG, Windows/Linux y build si la conoces.
+      placeholder: Steam, Windows x64, build 13947382
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Tipo de incidencia
+      options:
+        - Texto o traducción
+        - Interfaz o presentación
+        - Instalación o desinstalación
+        - Otro
+    validations:
+      required: true
+  - type: textarea
+    id: location
+    attributes:
+      label: Pantalla, clave o contexto
+      description: Indica dónde aparece. Copia la clave si la conoces.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Qué ocurre y qué esperabas
+      description: Describe pasos para reproducirlo y el resultado esperado.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Captura o evidencia opcional
+      description: Puedes adjuntar una captura sin datos personales ni contenido ajeno al problema.
+    validations:
+      required: false

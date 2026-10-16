@@ -1,0 +1,9 @@
+orig/
+extracted/
+build/
+patches/
+__pycache__/
+*.py[cod]
+*.log
+.venv/
+venv/

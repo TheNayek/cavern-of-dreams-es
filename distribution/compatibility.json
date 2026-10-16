@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "steam_build": 13947382,
+  "files": [
+    {
+      "path": "Cavern of Dreams_Data/StreamingAssets/aa/catalog.json",
+      "source": "orig/aa/catalog.json",
+      "sha256": "c0abe3ebdcb3bf0cd1c40fe92bbdacc2e3525985e0f03ea0e38210b368c3c88d",
+      "size": 27292
+    },
+    {
+      "path": "Cavern of Dreams_Data/StreamingAssets/aa/StandaloneWindows64/localization-string-tables-english(en)_assets_all.bundle",
+      "source": "orig/aa/StandaloneWindows64/localization-string-tables-english(en)_assets_all.bundle",
+      "sha256": "0746825974a457715065b880a4bf433bffd35da74a6b74e313231a9ed28332c5",
+      "size": 29785
+    },
+    {
+      "path": "Cavern of Dreams_Data/StreamingAssets/aa/StandaloneWindows64/localization-locales_assets_all.bundle",
+      "source": "orig/aa/StandaloneWindows64/localization-locales_assets_all.bundle",
+      "sha256": "2355cf1f642f959903774942f3614dbb75f39b3f6586a6acb0b61b0c7c4af528",
+      "size": 2374
+    },
+    {
+      "path": "Cavern of Dreams_Data/StreamingAssets/aa/StandaloneWindows64/localization-assets-shared_assets_all.bundle",
+      "source": "orig/aa/StandaloneWindows64/localization-assets-shared_assets_all.bundle",
+      "sha256": "c1cca656a2e6b101c8dc905c71cd0057e42fa42436f47836b1cba91b9d2be3c4",
+      "size": 14804
+    },
+    {
+      "path": "Cavern of Dreams_Data/level0",
+      "source": "orig/scenes/level0",
+      "sha256": "09fdfc4c2324cef7c84949c2b23921519d1c87d5900aba1a60485e4e8b52655a",
+      "size": 125472
+    },
+    {
+      "path": "Cavern of Dreams_Data/level1",
+      "source": "orig/scenes/level1",
+      "sha256": "80831d4ea50b5cfb2b73200852c0c61626f48576c826b1805490b80dc3224edd",
+      "size": 9934276
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+CAVERN OF DREAMS — TRADUCCIÓN AL ESPAÑOL (ESPAÑA)
+Versión 0.1.0-beta | Steam Windows x64, build 13947382
+
+INSTALACIÓN: EXTRAER Y COPIAR
+1. Cierra el juego y abre su carpeta de instalación, donde está
+   Cavern of Dreams.exe.
+2. Guarda una copia de Cavern of Dreams_Data FUERA de la carpeta del juego.
+   Esa copia permite restaurar los archivos originales.
+3. Extrae el ZIP en una carpeta temporal. Copia las carpetas
+   Cavern of Dreams_Data y Traduccion-ES junto al ejecutable del juego.
+   Acepta combinar las carpetas y sustituir los archivos cuando se solicite.
+4. Inicia el juego.
+
+También puedes extraer directamente dentro de la carpeta de instalación,
+después de guardar la copia. Debe quedar así:
+
+  Cavern of Dreams.exe       (ya existía; no se sustituye)
+  Cavern of Dreams_Data/    (se combinan las carpetas)
+  Traduccion-ES/            (instrucciones, créditos y hashes)
+
+No crees una carpeta intermedia adicional. No hay instaladores ni scripts que
+ejecutar, ni necesitas Python o programas de parcheo.
+
+La copia manual NO comprueba la versión y NO crea copias de seguridad.
+Utiliza Steam Windows x64, build 13947382, con los archivos originales o esta
+misma traducción. Otros mods que cambien esos archivos pueden ser incompatibles.
+
+IDIOMA
+El juego añade español como idioma nativo y conserva inglés. La selección
+sigue el idioma del sistema de Windows. No hay selector de idioma dentro del
+juego. Solo se han validado sistemas configurados en español; cambiar solo el
+idioma de Steam no garantiza la selección del español.
+
+DESINSTALAR Y ACTUALIZAR
+Cierra el juego y restaura tu copia original de Cavern of Dreams_Data,
+aceptando sustituir los archivos. Después puedes borrar Traduccion-ES.
+Si no guardaste copia, verifica la integridad de los archivos del juego en Steam
+para recuperar los originales. Esto también puede quitar cambios de otros mods.
+
+Si Steam actualiza el juego, utiliza un parche compatible con esa actualización.
+No restaures una copia de una build antigua sobre una nueva: en ese caso,
+recupera los originales mediante la verificación de Steam.
+
+COMPATIBILIDAD Y AYUDA
+Versión beta para Steam en Windows x64, build 13947382. No se ha validado en
+Linux, Steam Deck ni GOG. La carga y la reversión se han comprobado; falta una
+revisión visual exhaustiva en una partida, por lo que pueden quedar textos o
+pantallas por revisar.
+
+Para comunicar un problema, incluye el texto o su clave, la pantalla y una
+captura si es posible. No envíes archivos del juego, partidas guardadas ni
+datos personales. El ZIP incluye seis archivos de datos ya modificados:
+level0, level1, catalog.json y tres bundles de localización. El resto son
+documentos informativos. No contiene ejecutables ni scripts y no cambia
+las partidas guardadas ni los archivos de Managed.
+
+Proyecto no oficial, sin afiliación ni respaldo de Bynine Studio o Super Rare
+Originals. Consulta RELEASE_NOTES.md y CREDITOS.md de esta misma carpeta.

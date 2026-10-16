@@ -1,0 +1,20 @@
+{
+  "UI|adjust_up": "Subir",
+  "UI|adjust_down": "Bajar",
+  "UI|blur_label": "Filtro de \ndesenfoque",
+  "UI|fullscreen_label": "Pantalla \ncompleta",
+  "UI|global_volume": "Volumen general",
+  "UI|music_volume": "Volumen de música",
+  "UI|ability_available": "¡HABILIDAD \nDISPONIBLE!",
+  "UI|save_quit": "GUARDAR Y SALIR",
+  "UI|controls": "CONTROLES",
+  "UI|encyclopedia": "ENCICLOPEDIA",
+  "UI|options_title": "Opciones",
+  "UI|inventory": "Inventario",
+  "UI|return_tip": "Pulsa B/Mayús izq. \npara volver",
+  "UI|camera_vertical": "Cámara \nvertical",
+  "UI|camera_horizontal": "Cámara \nhorizontal",
+  "UI|totals": "Totales:",
+  "UI|basic_controls": "Controles básicos",
+  "UI|ability_controls": "Controles de habilidades"
+}

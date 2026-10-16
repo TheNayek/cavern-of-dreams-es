@@ -1,0 +1,20 @@
+{
+  "UI|adjust_up": "Up",
+  "UI|adjust_down": "Down",
+  "UI|blur_label": "Blur \nFilter",
+  "UI|fullscreen_label": "Full \nScreen",
+  "UI|global_volume": "Global Volume",
+  "UI|music_volume": "Music Volume",
+  "UI|ability_available": "NEW ABILITY \nAVAILABLE!",
+  "UI|save_quit": "SAVE & QUIT",
+  "UI|controls": "CONTROLS",
+  "UI|encyclopedia": "ENCYCLOPEDIA",
+  "UI|options_title": "Options",
+  "UI|inventory": "Inventory",
+  "UI|return_tip": "Press B/Left Shift to \nexit this menu",
+  "UI|camera_vertical": "Camera \nVertical",
+  "UI|camera_horizontal": "Camera \nHorizontal",
+  "UI|totals": "Totals:",
+  "UI|basic_controls": "Basic Controls",
+  "UI|ability_controls": "Ability Controls"
+}

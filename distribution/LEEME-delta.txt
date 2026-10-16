@@ -1,0 +1,51 @@
+CAVERN OF DREAMS — TRADUCCIÓN AL ESPAÑOL (ESPAÑA)
+Versión 0.1.0-beta | Steam Windows x64, build 13947382
+
+INSTALACIÓN
+1. Extrae TODO el contenido del ZIP junto a Cavern of Dreams.exe.
+2. Cierra el juego.
+3. Haz doble clic en «Instalar traduccion.cmd» y sigue las indicaciones.
+
+No necesitas Python ni conexión a Internet para instalar o desinstalar.
+Necesitas permisos de escritura en la carpeta del juego. El instalador guarda
+una copia de seguridad en
+CavernOfDreams-ES. No borres esa carpeta mientras quieras poder restaurar.
+
+Se usa la carpeta donde has extraído el ZIP. Para elegir otra, abre
+PowerShell en CavernOfDreams-ES y ejecuta:
+
+  powershell -ExecutionPolicy Bypass -File .\patch.ps1 -Mode Install -Game "D:\ruta\a\Cavern of Dreams"
+
+IDIOMA
+El juego añade español como idioma nativo y conserva inglés. La selección
+sigue el idioma del sistema de Windows. No hay selector de idioma dentro del
+juego. Solo se han validado sistemas configurados en español; cambiar solo el
+idioma de Steam no garantiza la selección del español.
+
+DESINSTALAR Y ACTUALIZAR
+Cierra el juego y ejecuta «Desinstalar traduccion.cmd» para restaurar la copia
+anterior. Conserva CavernOfDreams-ES hasta que ya no necesites esa copia.
+Desinstala antes de actualizar el juego si es posible. Si Steam ya ha cambiado
+los archivos y el desinstalador rechaza restaurarlos, verifica los archivos del
+juego desde Steam y aplica una versión compatible del parche.
+
+El instalador no sobrescribe escenas que detecta modificadas por otra
+herramienta. Si ya tienes un parche de desarrollo sin copia independiente,
+restaura el original con las herramientas del repositorio o verifica el juego
+con Steam antes de aplicar este paquete.
+
+COMPATIBILIDAD Y AYUDA
+Versión beta para Steam en Windows x64, build 13947382. No se ha validado en
+Linux, Steam Deck ni GOG. La carga y la reversión se han comprobado; falta una
+revisión visual exhaustiva en una partida, por lo que pueden quedar textos o
+pantallas por revisar.
+
+Para comunicar un problema, incluye el texto o su clave, la pantalla y una
+captura si es posible. No envíes archivos del juego, partidas guardadas ni
+datos personales. El ZIP aplica deltas a seis archivos del juego; no cambia
+las partidas guardadas ni los archivos de Managed.
+
+Proyecto no oficial, sin afiliación ni respaldo de Bynine Studio o Super Rare
+Originals. Este es el formato DELTA opcional. Las notas de la versión describen
+la descarga manual principal; este formato requiere ejecutar su instalador.
+Consulta los avisos incluidos en CavernOfDreams-ES/licencias.

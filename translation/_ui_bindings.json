@@ -1,0 +1,177 @@
+[
+  {
+    "scene": "level0",
+    "text_id": 667,
+    "key": "UI|adjust_up"
+  },
+  {
+    "scene": "level0",
+    "text_id": 669,
+    "key": "UI|adjust_down"
+  },
+  {
+    "scene": "level0",
+    "text_id": 672,
+    "key": "UI|adjust_up"
+  },
+  {
+    "scene": "level0",
+    "text_id": 673,
+    "key": "UI|adjust_down"
+  },
+  {
+    "scene": "level0",
+    "text_id": 679,
+    "key": "UI|options"
+  },
+  {
+    "scene": "level0",
+    "text_id": 686,
+    "key": "UI|blur_label"
+  },
+  {
+    "scene": "level0",
+    "text_id": 687,
+    "key": "UI|fullscreen_label"
+  },
+  {
+    "scene": "level0",
+    "text_id": 688,
+    "key": "UI|global_volume"
+  },
+  {
+    "scene": "level0",
+    "text_id": 689,
+    "key": "UI|music_volume"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51055,
+    "key": "UI|ability_available"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51069,
+    "key": "UI|adjust_down"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51070,
+    "key": "UI|checklist"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51071,
+    "key": "UI|save_quit"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51072,
+    "key": "UI|options"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51073,
+    "key": "UI|controls"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51074,
+    "key": "UI|adjust_down"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51075,
+    "key": "UI|adjust_up"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51076,
+    "key": "UI|encyclopedia"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51077,
+    "key": "UI|adjust_down"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51080,
+    "key": "UI|adjust_up"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51082,
+    "key": "UI|adjust_up"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51131,
+    "key": "UI|options_title"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51146,
+    "key": "UI|inventory"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51157,
+    "key": "UI|return_tip"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51158,
+    "key": "UI|return_tip"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51228,
+    "key": "UI|music_volume"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51229,
+    "key": "UI|global_volume"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51230,
+    "key": "UI|camera_vertical"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51233,
+    "key": "UI|blur_label"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51234,
+    "key": "UI|fullscreen_label"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51235,
+    "key": "UI|camera_horizontal"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51236,
+    "key": "UI|totals"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51065,
+    "key": "UI|ability_controls"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51129,
+    "key": "UI|controls"
+  },
+  {
+    "scene": "level1",
+    "text_id": 51134,
+    "key": "UI|basic_controls"
+  }
+]
